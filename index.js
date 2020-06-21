@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const bot = new Discord.Client();
 var cron = require('node-cron');
 
-const token = 'Njk1MzIwNzAwODY0NDMwMjAx.Xoy1Iw.w7Pin1p0RweLKEQEu4Y80v9i614'
+const token = 'Njk1MzIwNzAwODY0NDMwMjAx.Xu_Bzg.Acn559O7WiakzlCNtcKE6LLxkd4'
 const prefix = '!?'
 const idlag = '221569516117688320'
 
