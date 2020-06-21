@@ -1,0 +1,10 @@
+if(message.content === '!?ap')
+        if(message.author.id === idlag)
+            message.channel.send('**I got u my man**')
+            cron.schedule('00 * 22 * * *', function(){
+                message.channel.send('<@&694562071567663144> PAPIEŻOWA!!!')
+                console.log('koks');
+            });
+    if(message.content === '!?apcheck')
+        if(message.author.id === idlag)
+            message.channel.send(dzialam)
